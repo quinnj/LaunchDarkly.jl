@@ -1,4 +1,4 @@
-module Example
+module LaunchDarkly
 export hello, domath
 
 """
